@@ -13,7 +13,7 @@ Python programmer with studies in economics and econometrics. I would define mys
 
 ## Skills
 - 🐍 Python
-- ☁️ AWS (S3, Lambda, EC2, CloudWatch, IAM)
+- ☁️ AWS (S3, Lambda, EC2, CloudWatch, IAM), Apache Airflow
 - 🗄️ Data Management & Analysis
 - 🔄 Automation
 
